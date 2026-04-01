@@ -1,0 +1,8 @@
+]633;E;echo 'curl -s https://api.github.com/repos/PaulRGU2014/mcino-Introduction-to-Git-and-GitHub | grep -E "\\"fork\\"|\\"full_name\\"|\\"parent\\""';ac0fa8e7-e973-4a70-8a65-d5b0ecfa7cd4]633;Ccurl -s https://api.github.com/repos/PaulRGU2014/mcino-Introduction-to-Git-and-GitHub | grep -E "\"fork\"|\"full_name\"|\"parent\""
+  "full_name": "PaulRGU2014/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
